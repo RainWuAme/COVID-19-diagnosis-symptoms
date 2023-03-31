@@ -6,8 +6,8 @@ COVID-19 is a highly contagious respiratory illness caused by the SARS-CoV-2 vir
 
 We have included all COVID-19 related symptoms in categories of "General", "Ear, Nose, and Throat", "Respiratory", "Gastrointestinal and Hepatic", "Cardiovascular", "Neurological", "Musculoskeletal", "Dermatological", "Ophthalmology", and "Genitourinary".
 
-## ICD-10 and ICD-10 NW
-We have provided the standard ICD-10 code for each symptom. For those symptoms with the same ICD-10 codes, we have created our own code, ICD-10 NW, to ensure that each symptom has a unique code.
+## ICD code and ICD NW code
+We have provided the standard ICD-10 and ICD-11 code for each symptom. For those symptoms with the same codes, we have created our own code, ICD-10 NW and ICD-11 NW, to ensure that each symptom has a unique code.
 
 ## Contribution
 Contributions to this repository are welcome! If you have any suggestions or feedback, please feel free to open an issue or submit a pull request.
